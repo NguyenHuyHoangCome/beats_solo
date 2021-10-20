@@ -1,0 +1,168 @@
+.duoi{
+    display: flex;
+    background-color: #ed1c24;
+    height: 150px;
+    font-size: 20px;
+    margin-top: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.duoi .trai{
+    display: flex;
+    width: 50%;
+    height: 40px;
+    
+    
+}
+.duoi .phai{
+    display: flex;
+    width: 50%;
+    
+}
+.duoi .trai img{
+    
+    height: 50px;
+    width: 50px;
+    margin-right: 40px;
+    margin-left: 364px;
+    margin-top: 43px;
+   
+    
+}
+
+
+.duoi .trai .tex{
+    width: 50%;
+    color: #332827;
+
+}
+
+.tex h5{
+    margin-top: 42px;
+    margin-bottom: 2px;
+}
+.tex .tex2{
+    font-size: 15px;
+}
+.hoptex{
+    padding-left: 20px;
+    width: 500px;
+    height: 30px;
+    margin-top: 43px;
+    margin-left: 50px;
+    border: white;
+    
+}
+.hoptex:active{
+    border: white;
+    
+}
+.hopbut{
+    margin-top: 43px;
+    width: 100px;
+    height: 32px;
+    background-color: #363636;
+    padding: 0 0 0 0 ;
+    border: #363636;
+    color: white;
+    font-size: 15px;
+}
+.hopbut:hover{
+    background-color: black;
+    color: red;
+
+}
+.duoi1{
+   
+    height:582px ;
+    background-image: url("http://bizweb.dktcdn.net/100/208/437/themes/765059/assets/bg-footer.png?1590633049216&fbclid=IwAR3UlTZFZPRx1LZ8TK47tzWwnYnaLLH83LWTsyHcuJiDZNkpgMT_OvfRU0o");
+    
+    margin: auto;
+    
+    
+}
+.duoi11{
+    display: flex;
+    height:600px ;
+    width: 1100px;
+    margin: auto;
+}
+.con1{
+    background-color: rgb(10, 10, 10);
+    opacity: 0.85;
+    width: 350px;
+    
+    height: 513px;
+
+    
+    
+    
+}
+.con3{
+    
+    width: 390px;
+    height: 513px;
+   
+}
+.con2{
+    
+    width:700px;
+    height: 513px;
+    
+}
+.con1 img{
+    width: 100px;
+    height: 100px;
+    margin-left: 130px;
+    margin-top: 40px;
+    
+}
+.img .texi{
+    color: white;
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.img .texi1{
+    color: white;
+    display: block;
+    margin-top: 10px;
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.con2 .hethong{
+    margin-top: 150px;
+    margin-left: 20px;
+    display: block;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.con2 .hethong i{
+   color: red;
+}
+.con3 .hethong{
+    margin-top: 150px;
+    margin-left: 20px;
+    display: block;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.con3 .hethong .chu1{
+    font-size: 12px;
+    color: gray;
+}
+.con3 .hethong .chu2{
+    font-size: 15px;
+    color:red;
+}
+.con3 .hethong .chu3{
+    font-size: 15px;
+    color: white;
+}
+.con3 .hethong i{
+    color: red;
+}
+.con3 .icon img{
+    margin-top: 30px;
+    margin-left: 9px;
+}
+
+

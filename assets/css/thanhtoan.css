@@ -1,0 +1,122 @@
+.container{
+    display: flex;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: auto;
+
+}
+.container .ctleft{
+   
+    width: 80%;
+    height: auto;
+    margin-left: 40px;
+    margin-top: 20px;
+  
+
+}
+.container .ctleft img{
+    width: 60px;
+    height: 60px;
+}
+.container .ctleft .main{
+    display: flex;
+}
+.container .ctleft .main .mainl{
+
+    width: 55%;
+    height: auto;
+    
+}
+.container .ctleft .main .mainl .email{
+    width: 80%;
+    height: 40px;
+    margin-bottom: 15px;
+    border-radius: 4px;
+  
+    display: block;
+    box-sizing: border-box;
+    padding: .94em .8em;
+    border: 1px #d9d9d9 solid;
+    height: 44px;
+    background-color: #fff;
+    color: #333;
+
+}
+.container .ctleft .main .mainl .text{
+    width: 80%;
+    height: 40px;
+    margin-bottom: 15px;
+    border-radius: 4px;
+  
+    display: block;
+    box-sizing: border-box;
+    padding: .94em .8em;
+    border: 1px #d9d9d9 solid;
+    height: 44px;
+    background-color: #fff;
+    color: #333;
+
+}
+.container .ctleft .main .mainr{
+  
+    width: 45%;
+    height: auto;
+}
+.container .ctleft .main .mainr .arlet{
+    width: 100%;
+    height: 40px;
+    margin-bottom: 15px;
+    border-radius: 4px;
+    box-sizing: border-box;
+    padding: .94em .8em;
+    border: 1px #d9d9d9 solid;
+    height: 44px;
+    background-color: rgb(240, 128, 128);
+    color: #333;
+}
+
+
+
+.container .ctright{
+   
+    width: 400px;
+    height: auto;
+    margin-top: 30px;
+   
+
+}
+.container .ctright img{
+    width: 100px;
+    height: 100px;
+   
+}
+.container .ctright .anh{
+    position: relative;
+    width: 100px;
+}
+.container .ctright .pro{
+    display: flex;
+}
+.container .ctright .pro .if{
+    margin-top: 37px;
+    margin-left: 20px;
+}
+.container .ctright .pro .if span{
+    margin-left: 100px;
+}
+.container .ctright .quantity{
+    font-size: .99em;
+    white-space: nowrap;
+    padding: 0 .62em;
+    border-radius: 2em;
+    background-color: #f84242;
+    color: #fff;
+    position: absolute;
+    right: -.1em;
+    top: -.20em;
+    z-index: 3;
+    box-sizing: border-box;
+    min-width: 1.75em;
+    height: 1.75em;
+    text-align: center;
+    line-height: 1.75em;
+}

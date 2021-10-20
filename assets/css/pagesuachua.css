@@ -1,0 +1,29 @@
+* {margin: 0;padding: 0;}
+
+.chusuachua {
+    width: 1136px;
+    margin: auto;
+    margin-top: 60px;
+    font-family: segoe ui;
+}
+.chusuachua a{
+    text-decoration: none;
+    color: black;
+}
+.chusuachua a:hover{
+    text-decoration: underline black;
+}
+.chusuachua a.link{
+    text-decoration: none;
+    color: black;
+}
+.chusuachua a.link:hover{
+    text-decoration: underline rgb(206, 169, 7);
+    color: rgb(212, 167, 18);
+}
+.chusuachua pre {
+    font-family: segoe ui;
+}
+.chusuachua p.dam{
+    font-weight: bold;
+}

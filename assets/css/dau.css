@@ -1,0 +1,83 @@
+* {margin: 0;padding: 0;}
+.divdau {
+    width: 100%;
+    height: 128px;
+    z-index: 99;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+.daudoi{
+    background-color: rgba(151, 16, 16, 0.8);
+    height: 70px;
+    transition: 0.3s;
+    
+}
+.divdau .daubo{
+    display: flex;
+    margin: auto;
+    width: 1100px;
+    height: 100%;
+   
+}
+.nhohon{
+    color: white;
+}
+.divdau .daubo .anh {
+    width: 20%;
+}
+.divdau .daubo img.anhbt{
+    width: 60%;
+   transform: scale(0.7);
+}
+.divdau .daubo .timkiem{
+    
+    width: 60%;
+    
+}
+.divdau .daubo .timkiem .nutnhap{
+    
+    width: 100px;
+    height: 39px;
+    background-image: linear-gradient(-90deg, rgb(255, 89, 89), pink);    
+    border: 0px;
+    color: white;
+    font-size: 15px;
+
+}
+.divdau .daubo .timkiem .nutnhap i{
+    color: white;
+
+}
+.divdau .daubo .timkiem .daunhap{
+    padding-left: 20px;
+    width: 500px;
+    height: 40px;
+    margin-top: 30px;
+    border: 1px rgb(255, 88, 88) solid;
+    
+    font-size: 16px;
+
+}
+.divdau .daubo .chu{
+    width: 20%;
+    
+}
+.divdau .daubo .chu a.adau {
+    display: block;
+    text-decoration: none;
+    margin-top: 30px;
+    color: black;
+    font-family: segoe ui;
+
+}
+.divdau .daubo .chu a:hover {
+    color: red;
+    
+}
+.divdau .daubo .chu img{
+    
+    width: 50px;  
+    vertical-align: middle;
+    margin-right: 5px;
+}

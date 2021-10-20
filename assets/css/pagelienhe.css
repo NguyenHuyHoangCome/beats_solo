@@ -1,0 +1,71 @@
+* {margin: 0;padding: 0;font-family: segoe ui;}
+.divlienheto {
+    width: 1126px;
+    margin:auto;
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+.divlienheto .lienhetrai {
+    width: 45%;
+}
+.divlienheto .lienhetrai .lienhetraicon{
+    margin-top: 30px;
+    margin-left: 30px;
+    
+}
+.divlienheto .lienhetrai .lienhetraicon p{
+    position: relative;
+}
+.divlienheto .lienhetrai .lienhetraicon p._1::before{
+    content: "\f041";
+    font: normal normal normal 20px/1 FontAwesome;
+    position: absolute;
+    left: -30px;
+}
+.divlienheto .lienhetrai .lienhetraicon p._2::before{
+    content: "\f10b";
+    font: normal normal normal 16px/1 FontAwesome;
+    position: absolute;
+    left: -30px;
+}
+.divlienheto .lienhetrai .lienhetraicon p._3::before{
+    content: "\f0e0";
+    font: normal normal normal 16px/1 FontAwesome;
+    position: absolute;
+    left: -30px;
+}
+.divlienheto .lienhetrai form {}
+.divlienheto .lienhetrai form input{
+    width: 100%;
+    line-height: 20px;
+    font-size: 18px;
+    padding: 8px 20px;
+    margin-top: 20px;
+    border: 1px rgb(168, 168, 168) solid;
+}
+.divlienheto .lienhetrai form >input._1{
+    width: 200px;
+    text-align: left;
+    background-color: black;
+    color: white;
+
+}
+.divlienheto .lienhetrai form >input._1:hover{
+    background-color: red;
+
+}
+.divlienheto .lienhetrai form textarea#noidung {
+    margin-top: 20px;
+    padding: 8px 20px;
+    font-size: 18px;
+    border: 1px rgb(168, 168, 168) solid;
+}
+
+.divlienheto .lienhephai {
+    width: 45%;
+}
+.divlienheto .lienhephai img{
+    width: 100%;
+    height: 600px;
+}

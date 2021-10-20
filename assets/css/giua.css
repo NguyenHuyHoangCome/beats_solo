@@ -1,0 +1,339 @@
+* {margin: 0;padding: 0;}
+.giua {
+    width: 100%;
+}
+.camket{
+    
+    height: 169px;
+    background-color: rgb(235, 235, 235);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    
+}
+.giua a {
+    text-decoration: none;
+    font-family: segoe ui;
+}
+.giua .camket .boicon{
+    height:169px;
+    width: 1246px;
+    display: flex;
+    margin: auto;
+    
+    
+} 
+.giua .camket .boicon .icon1{
+    width: 300px;
+    height: 169px;
+    display: flex;
+    margin-right: 20px;
+    
+    
+}
+
+
+.giua .camket .boicon .icon1 .img{
+    margin-top: 60px;
+    margin-right: 20px;
+
+}
+.giua .camket .boicon .icon1 .tex{
+    margin-top: 20px;
+    font-size: 15px;
+}
+.giua .camket .boicon .icon1 .tex .h5{
+    font-size: 15px;
+}
+
+.giua .dichvu{
+    height: 270px;
+    width: 100%;
+    background-image: linear-gradient(to top right ,#446cca,rgb(123, 49, 243),#6757b9,rgb(128, 51, 230),#5462c7,#446cca,rgb(123, 49, 243),#6757b9,rgb(128, 51, 230),#5462c7,#446cca,rgb(123, 49, 243),#6757b9);
+ 
+    
+
+}
+.giua .dichvu .dichvucon{
+    height: 270px;
+    width: 70%;
+    margin: auto;
+    padding-top: 50px;
+    
+}
+.giua .dichvu .dichvucon .tieude{
+    
+    height:100px;
+}
+.giua .dichvu .dichvucon .tieude .h5{
+    font-size: 20px; 
+    color: #ffffff;  
+}
+.giua .dichvu .dichvucon .tieude .h6{
+    font-size: 15px;
+    color: #aca7a7;
+    
+}
+
+
+
+.giua .dichvu .dichvucon .thantieude{
+    display: flex;
+    height: 169px;
+    
+}
+.giua .dichvu .dichvucon .thantieude .than1{
+    width: 25%;
+    display: flex;
+}
+.giua .dichvu .dichvucon .thantieude .than1 .img img{
+    width: 60px;
+    height:60px;
+    display: block;
+}
+.giua .dichvu .dichvucon .thantieude .than1 .tex h5{
+    color: #ffffff;
+    
+    margin-top: 20px;
+    margin-left: 10px;
+    
+}
+
+
+
+.giua .tintuc{
+    height: 600px;
+    
+}
+.giua .tintuc .tieude{
+    width: 200px;
+    height:30px;
+    margin-left: 280px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+.giua .tintuc .tieude a{
+    font-weight: 500;
+    font-size: 20px;
+    
+    color: black;
+    text-decoration: none;
+}
+.giua .tintuc .tieude a:hover{
+    text-decoration: none;
+    color: red;
+}
+
+.giua .tintuc .thongtin{
+    display: flex;
+    width: 1280px;
+    margin: auto;
+    
+}
+.giua .tintuc .thongtin .trai{
+    height: 450px;
+    width: 50%;
+    
+}
+.giua .tintuc .thongtin .phai{
+    height: 450px;
+    width: 50%;
+    
+}
+.giua .tintuc .thongtin .trai .anh{
+    width: 609px;
+    height: 256px;
+    margin-bottom: 15px;
+}
+.giua .tintuc .thongtin .trai .anh img{
+    width: 100%;
+    
+    
+}
+.giua .tintuc .thongtin .trai .ten a{
+    text-transform: uppercase;
+    color: black;
+    margin-bottom: 10px;
+    font-weight: 500;
+}
+.giua .tintuc .thongtin .trai .ten a:hover{
+    color: red;
+    text-decoration: none;
+
+}
+.iconthongtin1{
+    margin-right:15px ;
+    color: #7c7a7a;
+    font-weight: 300;
+
+}
+.thongtin1{
+    display: flex;
+    margin: auto;
+    margin-top: 10px;
+}
+.pthongtin1{
+    margin-top: -3px;
+    margin-right:30px ;
+    color: #7c7a7a;
+    font-weight: 300;
+    
+}
+.giua .tintuc .thongtin .trai .tex p{
+    margin-right: 29px;
+    margin-top: 10px;
+}
+.giua .tintuc .thongtin .phai .trangbao{
+    display: flex;
+    width: 680px;
+    height: 150px;
+    margin-bottom: 30px;
+    
+}
+.giua .tintuc .thongtin .phai .trangbao .anh{
+    width: 180px;
+    
+}
+.giua .tintuc .thongtin .phai .trangbao .anh img{
+    width: 100%;
+    height: 125px;
+}
+.giua .tintuc .thongtin .phai .trangbao .tex{
+    height: 150px;
+    width: 450px;
+    margin-left: 20px;
+}
+.giua .t{
+    margin-top: 20px;
+}
+
+.giua .tintuc .thongtin .phai .trangbao .tex .ten a{
+    color: black;
+    text-transform: uppercase;
+}
+.giua .tintuc .thongtin .phai .trangbao .tex .ten a:hover{
+    text-decoration: none;
+    color: red;
+}
+
+.giua .dieukhoan {
+    height: 400px;
+   
+}
+
+.giua .dieukhoan .trungtam{
+    width: 1240px;
+    height: 350px;
+    margin-left: 275px;
+    margin-top: 10px;
+    
+    display: flex;
+}
+.giua .dieukhoan .trungtam .trai{
+    width: 50%;
+    
+}
+.giua .dieukhoan .trungtam .phai{
+    width: 50%;
+    
+}
+.giua .dieukhoan .trungtam .phai img{
+    width: 100%;
+}
+.giua .dieukhoan .trungtam .trai .textren{
+    height: 70px;
+    display: flex;
+    width: 600px;
+    border-bottom: 2px solid #ccc;
+}
+.giua .dieukhoan .trungtam .trai .texduoi{
+
+    height: 300px;
+}
+.giua .dieukhoan .trungtam .trai .texduoi .k{
+    width: 600px;
+    height: 100%;
+    
+}
+.giua .dieukhoan .trungtam .trai .textren div{
+    
+    margin-right: 40px;
+    height: 45px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    display: block;
+    
+    
+}
+.giua .dieukhoan .trungtam .trai .textren div:hover{
+
+    border-bottom: 2px solid rgb(250, 7, 7);
+}
+.giua .dieukhoan .trungtam .trai .textren div:focus{
+
+    border-bottom: 2px solid rgb(250, 7, 7);
+}
+
+.giua .dieukhoan .trungtam .trai .textren div a{
+    color: black;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: 500;
+    
+    
+}
+.giua .dieukhoan .trungtam .trai .textren div a:hover{
+    color: red;
+    
+}
+.giua .dieukhoan .trungtam .trai .textren div a:focus{
+    color: red;
+}
+.giua .anhsp{
+    height: 520px;
+    
+}
+.giua .anhsp .hi{
+    width: 1245px;
+    height: 500px;
+    margin: auto;
+}
+.giua .anhsp .hi .trai{
+    height: 80px;
+    
+}
+.giua .anhsp .hi .trai h3{
+    margin-top: 30px;
+    width: 210px;
+    padding-top: 20px;
+
+}
+.giua .anhsp .hi .trai h3:hover{
+    color: red;
+}
+.giua .anhsp .hi .phai{
+    
+    height: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
