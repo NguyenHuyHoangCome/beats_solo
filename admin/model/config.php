@@ -2,10 +2,10 @@
 
 class dbConfig{
 
-    private $servername = "localhost:3333";
-    private $username = "root";
-    private $password = "";
-    private $db = "testdb";
+    private $servername = "mysql5031.site4now.net";
+    private $username = "a7aa2a_hoangca";
+    private $password = "hoang2001";
+    private $db = "db_a7aa2a_hoangca";
     protected $conn = null;
     public function connect()
     {
